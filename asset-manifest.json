@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/www.berellevy.com/static/css/main.db268c6f.chunk.css",
-    "main.js": "/www.berellevy.com/static/js/main.88ae91e8.chunk.js",
-    "main.js.map": "/www.berellevy.com/static/js/main.88ae91e8.chunk.js.map",
-    "runtime-main.js": "/www.berellevy.com/static/js/runtime-main.c7f02deb.js",
-    "runtime-main.js.map": "/www.berellevy.com/static/js/runtime-main.c7f02deb.js.map",
-    "static/css/2.2a86faee.chunk.css": "/www.berellevy.com/static/css/2.2a86faee.chunk.css",
-    "static/js/2.9429bbd4.chunk.js": "/www.berellevy.com/static/js/2.9429bbd4.chunk.js",
-    "static/js/2.9429bbd4.chunk.js.map": "/www.berellevy.com/static/js/2.9429bbd4.chunk.js.map",
-    "index.html": "/www.berellevy.com/index.html",
-    "precache-manifest.cc9d373e800e63ac36232118f9f013c4.js": "/www.berellevy.com/precache-manifest.cc9d373e800e63ac36232118f9f013c4.js",
-    "service-worker.js": "/www.berellevy.com/service-worker.js",
-    "static/css/2.2a86faee.chunk.css.map": "/www.berellevy.com/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.db268c6f.chunk.css.map": "/www.berellevy.com/static/css/main.db268c6f.chunk.css.map",
-    "static/js/2.9429bbd4.chunk.js.LICENSE.txt": "/www.berellevy.com/static/js/2.9429bbd4.chunk.js.LICENSE.txt",
-    "static/media/Berel_Levy_Resume.docx": "/www.berellevy.com/static/media/Berel_Levy_Resume.0505e3e6.docx",
-    "static/media/round-profile.png": "/www.berellevy.com/static/media/round-profile.25e2689b.png"
+    "main.css": "/berellevy.com/static/css/main.db268c6f.chunk.css",
+    "main.js": "/berellevy.com/static/js/main.e2b1c699.chunk.js",
+    "main.js.map": "/berellevy.com/static/js/main.e2b1c699.chunk.js.map",
+    "runtime-main.js": "/berellevy.com/static/js/runtime-main.d318fc89.js",
+    "runtime-main.js.map": "/berellevy.com/static/js/runtime-main.d318fc89.js.map",
+    "static/css/2.2a86faee.chunk.css": "/berellevy.com/static/css/2.2a86faee.chunk.css",
+    "static/js/2.9429bbd4.chunk.js": "/berellevy.com/static/js/2.9429bbd4.chunk.js",
+    "static/js/2.9429bbd4.chunk.js.map": "/berellevy.com/static/js/2.9429bbd4.chunk.js.map",
+    "index.html": "/berellevy.com/index.html",
+    "precache-manifest.5069c2f744375f0f972de804d9e25e6c.js": "/berellevy.com/precache-manifest.5069c2f744375f0f972de804d9e25e6c.js",
+    "service-worker.js": "/berellevy.com/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/berellevy.com/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.db268c6f.chunk.css.map": "/berellevy.com/static/css/main.db268c6f.chunk.css.map",
+    "static/js/2.9429bbd4.chunk.js.LICENSE.txt": "/berellevy.com/static/js/2.9429bbd4.chunk.js.LICENSE.txt",
+    "static/media/Berel_Levy_Resume.docx": "/berellevy.com/static/media/Berel_Levy_Resume.0505e3e6.docx",
+    "static/media/round-profile.png": "/berellevy.com/static/media/round-profile.25e2689b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7f02deb.js",
+    "static/js/runtime-main.d318fc89.js",
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.9429bbd4.chunk.js",
     "static/css/main.db268c6f.chunk.css",
-    "static/js/main.88ae91e8.chunk.js"
+    "static/js/main.e2b1c699.chunk.js"
   ]
 }
