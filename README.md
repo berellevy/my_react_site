@@ -1,3 +1,13 @@
+# Prerequisites
+
+- Links to all my social media
+- link to my resume
+- about
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
