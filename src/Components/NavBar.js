@@ -11,9 +11,9 @@ const NavBar = () => {
         <Container>
           <NavbarBrand>berellevy.com</NavbarBrand>
           <Nav className="ml-auto">
-            <Nav.Link href="/home">Home</Nav.Link>
-            <Nav.Link href="/about">About</Nav.Link>
-            <Nav.Link href="/contact">Contact</Nav.Link>
+            <Nav.Link href="/home" disabled >Home</Nav.Link>
+            <Nav.Link href="/about" disabled >About</Nav.Link>
+            <Nav.Link href="/contact"disabled >Contact</Nav.Link>
           </Nav>
         </Container>
     </Navbar>
