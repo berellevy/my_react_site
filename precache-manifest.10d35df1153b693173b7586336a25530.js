@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d42f1b4a904a97f6a8e6b4c097f29ab",
+    "revision": "71be2ca314b4c8012659423b3fe86d16",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "80ff3e90fff9fc94943a",
+    "revision": "c2ce4f20bf3de0bb3e58",
     "url": "/static/css/main.db268c6f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.5b1b1bb2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80ff3e90fff9fc94943a",
-    "url": "/static/js/main.425af7ee.chunk.js"
+    "revision": "c2ce4f20bf3de0bb3e58",
+    "url": "/static/js/main.8836dc77.chunk.js"
   },
   {
     "revision": "78a0ec2d2fb70ca68345",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Berel_Levy_Resume.0505e3e6.docx"
   },
   {
-    "revision": "25e2689beb4207e6e5a4c6d4710a6f26",
-    "url": "/static/media/round-profile.25e2689b.png"
+    "revision": "8fb0fc687fb41f702fb854e2ef4f3292",
+    "url": "/static/media/profile_square_small.8fb0fc68.jpg"
   }
 ]);
