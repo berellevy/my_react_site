@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a039e2f598dd0e15b0ccd5eabea4803",
+    "revision": "b280f9288dbc9124b04702b3733da99a",
     "url": "/www.berellevy.com/index.html"
   },
   {
-    "revision": "6c4bf179f3d0fc249754",
+    "revision": "fbdd4bb35dadb3e65edf",
     "url": "/www.berellevy.com/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "bd1b55df66b9a89c2c3c",
+    "revision": "3de44bd9fcb9cf18a2b3",
     "url": "/www.berellevy.com/static/css/main.db268c6f.chunk.css"
   },
   {
-    "revision": "6c4bf179f3d0fc249754",
-    "url": "/www.berellevy.com/static/js/2.9429bbd4.chunk.js"
+    "revision": "fbdd4bb35dadb3e65edf",
+    "url": "/www.berellevy.com/static/js/2.5b1b1bb2.chunk.js"
   },
   {
     "revision": "451ffe720aa8add9f554b8ed54913322",
-    "url": "/www.berellevy.com/static/js/2.9429bbd4.chunk.js.LICENSE.txt"
+    "url": "/www.berellevy.com/static/js/2.5b1b1bb2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd1b55df66b9a89c2c3c",
-    "url": "/www.berellevy.com/static/js/main.d1132ec0.chunk.js"
+    "revision": "3de44bd9fcb9cf18a2b3",
+    "url": "/www.berellevy.com/static/js/main.a55373f4.chunk.js"
   },
   {
-    "revision": "54a0bfc69fd9cf0fd155",
-    "url": "/www.berellevy.com/static/js/runtime-main.c7f02deb.js"
+    "revision": "b7504cf278231948d618",
+    "url": "/www.berellevy.com/static/js/runtime-main.d5148cfc.js"
   },
   {
     "revision": "0505e3e63bf4c401da41c4abb624f8fb",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/www.berellevy.com/precache-manifest.969776f4c0b90627eb9d30f8b74d0654.js"
+  "/www.berellevy.com/precache-manifest.60af445b8ec1d5295ac692acf8f6ba84.js"
 );
 
 self.addEventListener('message', (event) => {
