@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my_react_site/static/css/main.db268c6f.chunk.css",
+    "main.js": "/my_react_site/static/js/main.ded446f8.chunk.js",
+    "main.js.map": "/my_react_site/static/js/main.ded446f8.chunk.js.map",
+    "runtime-main.js": "/my_react_site/static/js/runtime-main.c91e3989.js",
+    "runtime-main.js.map": "/my_react_site/static/js/runtime-main.c91e3989.js.map",
+    "static/css/2.2a86faee.chunk.css": "/my_react_site/static/css/2.2a86faee.chunk.css",
+    "static/js/2.9429bbd4.chunk.js": "/my_react_site/static/js/2.9429bbd4.chunk.js",
+    "static/js/2.9429bbd4.chunk.js.map": "/my_react_site/static/js/2.9429bbd4.chunk.js.map",
+    "index.html": "/my_react_site/index.html",
+    "precache-manifest.e047e9ccd44b8ec429151c41b49ed097.js": "/my_react_site/precache-manifest.e047e9ccd44b8ec429151c41b49ed097.js",
+    "service-worker.js": "/my_react_site/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/my_react_site/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.db268c6f.chunk.css.map": "/my_react_site/static/css/main.db268c6f.chunk.css.map",
+    "static/js/2.9429bbd4.chunk.js.LICENSE.txt": "/my_react_site/static/js/2.9429bbd4.chunk.js.LICENSE.txt",
+    "static/media/Berel_Levy_Resume.docx": "/my_react_site/static/media/Berel_Levy_Resume.0505e3e6.docx",
+    "static/media/round-profile.png": "/my_react_site/static/media/round-profile.25e2689b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c91e3989.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.9429bbd4.chunk.js",
+    "static/css/main.db268c6f.chunk.css",
+    "static/js/main.ded446f8.chunk.js"
+  ]
+}
