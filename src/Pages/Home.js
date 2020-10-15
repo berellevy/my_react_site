@@ -1,6 +1,6 @@
 import React from 'react'
 import { Col, Container, Image, Row } from 'react-bootstrap'
-import RoundProfile from '../assets/round-profile.png'
+import RoundProfile from '../assets/profile_square_small.jpg'
 import GithubLink from '../icons/GithubLink'
 import LinkedInLink from '../icons/LinkedInLink'
 import MediumLink from '../icons/MediumLink'
@@ -19,7 +19,7 @@ const Home = () => {
       <Container>
         <Row className="align-items-center">
           <Col sm="4">
-            <Image src={ RoundProfile } fluid style={{padding: "5%", maxHeight: 300}}/>
+            <Image src={ RoundProfile } roundedCircle fluid style={{padding: "5%", maxHeight: 300}}/>
           </Col>
           <Col >
               <h3>Hey, I'm Berel</h3>
