@@ -1,5 +1,6 @@
 import React from 'react'
 import HomeTitleBar from '../Components/HomeTitleBar'
+import YoutubeSection from '../Components/YoutubeSection'
 
 // const jStyle = {
 //   color: "#444763",
@@ -9,7 +10,10 @@ import HomeTitleBar from '../Components/HomeTitleBar'
 
 const Home = () => {
   return (
-    <HomeTitleBar/>
+    <>
+      <HomeTitleBar/>
+      <YoutubeSection />
+    </>
   )
 }
 
