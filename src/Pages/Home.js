@@ -24,9 +24,7 @@ const Home = () => {
           className="row align-items-center text-white " 
         >
           <Col 
-            
             className="justify-content-sm-left"
-          
           >
             <Image 
               className="p-4 p-sm-3 mx-auto"

@@ -7,13 +7,17 @@ import { Container } from 'react-bootstrap'
 
 const NavBar = () => {
   return (
-    <Navbar expand="xl" bg="light">
-        <Container>
+    <Navbar className="bg-lg">
+        <Container 
+          className="flex-column flex-sm-row my-2 my-sm-3"
+        >
           <NavbarBrand>berellevy.com</NavbarBrand>
-          <Nav className="ml-auto">
-            <Nav.Link href="/home" disabled >Home</Nav.Link>
-            <Nav.Link href="/about" disabled >About</Nav.Link>
-            <Nav.Link href="/contact"disabled >Contact</Nav.Link>
+          <Nav 
+            className="ml-sm-auto justify-content-between"
+          >
+            <Nav.Link className="text-secondary mx-1" href="/home" disabled >Home</Nav.Link>
+            <Nav.Link className="text-secondary mx-1"href="/about" disabled >About</Nav.Link>
+            <Nav.Link className="text-secondary mx-1"href="/contact"disabled >Contact</Nav.Link>
           </Nav>
         </Container>
     </Navbar>
