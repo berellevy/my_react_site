@@ -11,13 +11,15 @@ const NavBar = () => {
         <Container 
           className="flex-column flex-sm-row my-2 my-sm-3"
         >
-          <NavbarBrand>berellevy.com</NavbarBrand>
+          <NavbarBrand
+            className="mr-0"
+          >berellevy.com</NavbarBrand>
           <Nav 
-            className="ml-sm-auto justify-content-between"
+            className="ml-sm-auto"
           >
             <Nav.Link className="text-secondary mx-1" href="/home" disabled >Home</Nav.Link>
-            <Nav.Link className="text-secondary mx-1"href="/about" disabled >About</Nav.Link>
-            <Nav.Link className="text-secondary mx-1"href="/contact"disabled >Contact</Nav.Link>
+            {/* <Nav.Link className="text-secondary mx-1"href="/about" disabled >About</Nav.Link>
+            <Nav.Link className="text-secondary mx-1"href="/contact"disabled >Contact</Nav.Link> */}
           </Nav>
         </Container>
     </Navbar>
