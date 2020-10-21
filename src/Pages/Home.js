@@ -47,7 +47,6 @@ const Home = () => {
                 <LinkedInLink /> | <TwitterLink/> | <GithubLink /> | <MediumLink /> | <ResumeLink />
               </div>
           </Col>
-
         </div>
       </Container>
       </div>
