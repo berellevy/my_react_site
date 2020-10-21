@@ -11,7 +11,7 @@ const YoutubeSection = () => {
           className="row-cols-1 row-cols-sm-2 p-4"
         >
           <div className="col p-3">
-            <div className="card">
+            <div className="card" style={{background: "#d2d8dfff"}}>
               <div className="embed-responsive embed-responsive-16by9 p-5">
                 <iframe
                   className="p-1"
