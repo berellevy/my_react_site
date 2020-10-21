@@ -6,7 +6,7 @@ import '../css/footer.css'
 const Footer = () => {
   return (
     <footer 
-      className="footer bg-lg p-4"
+      className="footer bg-lg p-4 d-flex align-items-center"
     >
       <Container>
         <p className="mb-0" >copywrong 2020 Berel Levy</p>

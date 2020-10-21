@@ -7,7 +7,7 @@ import { Container } from 'react-bootstrap'
 
 const NavBar = () => {
   return (
-    <Navbar className="bg-lg">
+    <Navbar className="bg-lg" >
         <Container 
           className="flex-column flex-sm-row my-2 my-sm-3"
         >
