@@ -15,7 +15,6 @@ import TwitterLink from '../icons/TwitterLink'
 
 const Home = () => {
   return (
-    // <header className="masthead text-white" style={{background: "#4B4E6D"}}>
     <div style={{background: "#4B4E6D"}}>
       <Container 
         className="p-4"
@@ -49,7 +48,7 @@ const Home = () => {
           </Col>
         </div>
       </Container>
-      </div>
+    </div>
 
   )
 }
