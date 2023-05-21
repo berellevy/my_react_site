@@ -9,7 +9,7 @@ const Footer = () => {
       className="footer bg-lg p-4 d-flex align-items-center"
     >
       <Container>
-        <p className="mb-0" >copywrong 2020 Berel Levy</p>
+        <p className="mb-0" >copywrong 2023 Berel Levy</p>
         <a href="mailto:berel@berellevy.com">berel@berellevy.com</a>
       </Container>
     </footer>
