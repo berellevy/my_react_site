@@ -43,7 +43,7 @@ const Home = () => {
                 Reach out! <a style={{color: "#C3CBD4"}} href="mailto:berel@berellevy.com">berel@berellevy.com</a>
               </p>
               <div >
-                <LinkedInLink /> | <TwitterLink/> | <GithubLink /> | <MediumLink /> | <ResumeLink />
+                <LinkedInLink /> | <TwitterLink/> | <GithubLink /> | <MediumLink />{/* | <ResumeLink />*/}
               </div>
           </Col>
         </div>
