@@ -1,5 +1,5 @@
 import React from 'react'
-import { Row, Col, Container, Image, Card, CardBody, CardTitle, CardLink, CardText} from 'react-bootstrap'
+import {Card, CardBody, CardTitle, CardLink, CardText} from 'react-bootstrap'
 export const ArticleLink = ({title, text, href}) => {
     return (
         <Card>

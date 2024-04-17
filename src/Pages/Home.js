@@ -1,5 +1,5 @@
 import React from 'react'
-import { Row, Col, Container, Image, Card, CardBody, CardTitle, CardLink, CardText} from 'react-bootstrap'
+import { Row, Col, Container, Image} from 'react-bootstrap'
 import RoundProfile from '../assets/profile_square_small.jpg'
 import GithubLink from '../icons/GithubLink'
 import LinkedInLink from '../icons/LinkedInLink'
