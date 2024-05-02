@@ -6,11 +6,13 @@ import NavBar from './Components/NavBar';
 import Footer from './Components/Footer';
 
 
+
+
 function App() {
   return (
     <div className="App Site">
         <NavBar />
-        <main class="Site-content" >
+        <main className="Site-content" >
           <Home/>
         </main>
         <Footer />
