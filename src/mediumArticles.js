@@ -1,5 +1,10 @@
 const articles = [
     {
+        title: "Adding Star Power to Django QuerySets",
+        text: "Adding the convenience of SQL’s SELECT * to Django’s QuerySet.values().",
+        href: "https://berellevy.medium.com/adding-star-power-to-django-querysets-e939bbb503a8",
+    },
+    {
         title: "Pause/Play YouTube with Your Keyboard!",
         text: "Let's make a keyboard shortcut that you can click in any active window that will pause your YouTube tutorial.",
         href: "https://medium.com/@berellevy/pause-play-youtube-with-your-keyboard-b747029f9f4a",
