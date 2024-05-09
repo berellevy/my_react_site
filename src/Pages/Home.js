@@ -28,7 +28,9 @@ const Home = () => {
                 <h3>Hey, I'm Berel</h3>
                 <p>I'm a fullstack developer looking for a challenge.</p>
                 <p>Reach out <a style={{color: "#C3CBD4"}} href="mailto:berellevy@gmail.com">berellevy@gmail.com</a></p>
-                <div className='fs-4 text-dark'><LinkedInLink /> | <TwitterLink/> | <GithubLink /> | <MediumLink /> | <ResumeLink /></div>
+                <div className='fs-2'>
+                <ResumeLink /> | <LinkedInLink /> | <TwitterLink/> | <GithubLink /> | <MediumLink /> 
+                </div>
             </Col>
           </Row>
         </Container>
