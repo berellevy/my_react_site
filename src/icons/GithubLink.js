@@ -5,8 +5,12 @@ import React from 'react'
 
 const GithubLink = () => {
   return (
-    <a href="https://github.com/berellevy" target="_blank" rel="noopener noreferrer">
-      <FontAwesomeIcon icon={faGithub} />
+    <a 
+      href="https://github.com/berellevy" 
+      target="_blank" 
+      rel="noopener noreferrer"
+    >
+      <FontAwesomeIcon className='text-light' icon={faGithub} />
     </a>
   )
 }

@@ -6,7 +6,7 @@ import React from 'react'
 const MediumLink = () => {
   return (
     <a href="https://medium.com/@berellevy" target="_blank" rel="noopener noreferrer">
-      <FontAwesomeIcon icon={faMedium} />
+      <FontAwesomeIcon className='text-light' icon={faMedium} />
     </a>
   )
 }

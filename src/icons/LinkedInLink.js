@@ -6,7 +6,7 @@ import React from 'react'
 const LinkedInLink = () => {
   return (
     <a href="https://www.linkedin.com/in/berellevy/" target="_blank" rel="noopener noreferrer">
-      <FontAwesomeIcon icon={faLinkedinIn} />
+      <FontAwesomeIcon className='text-light' icon={faLinkedinIn} />
     </a>
   )
 }
