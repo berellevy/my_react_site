@@ -1,10 +1,10 @@
 import React from 'react'
-import resume from '../assets/Berel Levy resume.pdf'
+import resume from '../assets/BerelLevy_Resume.pdf'
 
 const ResumeLink = () => {
   return (
-    <a href={resume} download="Berel-Levy-Resume.pdf">
-      resume
+    <a href={resume} className='text-light' download="BerelLevy_Resume.pdf">
+      Resume
     </a>
   )
 }
