@@ -1,5 +1,10 @@
 const articles = [
     {
+        title: "Out-Of-This-World Django DX",
+        text: "How to set up the Jupyter Notebook VSCode extension in Django.",
+        href: "https://blog.stackademic.com/out-of-this-world-django-dx-e26612a38fd6",
+    },
+    {
         title: "Adding Star Power to Django QuerySets",
         text: "Adding the convenience of SQL’s SELECT * to Django’s QuerySet.values().",
         href: "https://berellevy.medium.com/adding-star-power-to-django-querysets-e939bbb503a8",
