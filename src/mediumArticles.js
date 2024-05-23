@@ -3,7 +3,7 @@ const articles = [
         title: "HTMX + 3rd Party Libraries The Easy Way.",
         text: "Easily activate HTMX on all elements added to the DOM by 3rd party libraries etc. with one simple code snippet.",
         href: "https://blog.stackademic.com/htmx-3rd-party-libraries-the-easy-way-6b83601e8b95",
-    }
+    },
     {
         title: "Out-Of-This-World Django DX",
         text: "How to set up the Jupyter Notebook VSCode extension in Django.",
