@@ -44,7 +44,7 @@ export const getMediumArticles = async () => {
   try {
     const res = await fetch(url, {mode: "no-cors"})
     const text = await res.text()
-
+    console.log({text});
     parseXml(text)
   } catch (err) {
     console.log(err)
