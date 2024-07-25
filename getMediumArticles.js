@@ -36,7 +36,7 @@ function parseArticle(article) {
   const articlesRaw = mediumData.rss.channel[0].item
   const articles = articlesRaw.map(parseArticle)
   const recentArticles = articles.filter((article) => {
-    return article.pubDate > new Date('2020-09-01')
+    return article.pubDate > new Date('2021-09-01')
   })
   const jsonString = JSON.stringify(recentArticles)
   fs.writeFileSync("src/medium-articles.json", jsonString)
