@@ -2,7 +2,7 @@ import React from 'react'
 import {Card, CardBody, CardTitle, CardLink, CardText} from 'react-bootstrap'
 export const ArticleLink = ({title, snippet, href, pubDate}) => {
   return (
-    <Card style={{background: "#e6dbd4"}}>
+    <Card style={{background: "light"}}>
       <CardBody>
         <CardTitle>{title}</CardTitle>
         <CardText>{snippet}</CardText>
