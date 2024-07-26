@@ -1,1 +1,1 @@
-# Check it out [here](https://berellevy.com)! 
+# Check it out [here](https://berellevy.com).
