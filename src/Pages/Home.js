@@ -71,7 +71,7 @@ const Home = () => {
                     </Col>
                     <Col>
                       <CardTitle className="">Job App Filler</CardTitle>
-                      <Card.Subtitle>A Chrome Exension</Card.Subtitle>
+                      <Card.Subtitle>A Chrome Extension</Card.Subtitle>
                     </Col>
                   </Row>
                   <CardText>
