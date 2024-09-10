@@ -18,7 +18,6 @@ import TwitterLink from '../icons/TwitterLink'
 import { ArticleLink } from '../Components/ArticleLink'
 import mediumArticles from '../mediumArticles'
 import JobAppFillerLogo from '../assets/job_app_filler_logo440.png'
-import { height } from '@fortawesome/free-brands-svg-icons/fa42Group'
 
 const Home = () => {
   return (
