@@ -15,7 +15,7 @@ import LinkedInLink from '../icons/LinkedInLink'
 import MediumLink from '../icons/MediumLink'
 import ResumeLink from '../icons/ResumeLink'
 import TwitterLink from '../icons/TwitterLink'
-import { ArticleLink } from '../Components/ArticleLink'
+import { ArticleLink } from '../components/ArticleLink'
 import mediumArticles from '../mediumArticles'
 import JobAppFillerLogo from '../assets/job_app_filler_logo440.png'
 

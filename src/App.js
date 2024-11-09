@@ -2,8 +2,8 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Home from './Pages/Home';
-import NavBar from './Components/NavBar';
-import Footer from './Components/Footer';
+import NavBar from './components/NavBar';
+import Footer from './components/Footer';
 
 
 
