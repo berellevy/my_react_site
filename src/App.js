@@ -2,8 +2,9 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Home from './Pages/Home';
-import NavBar from './components/NavBar';
-import Footer from './components/Footer';
+
+import Footer from './components/Footer'
+import { NavBar } from './components/NavBar';
 
 
 
@@ -11,7 +12,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="app site">
-        <NavBar />
+        <NavBar/>
         <main className="site-content" >
           <Home/>
         </main>

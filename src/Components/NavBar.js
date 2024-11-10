@@ -5,7 +5,7 @@ import NavbarBrand from 'react-bootstrap/NavbarBrand'
 import Nav from 'react-bootstrap/Nav'
 import { Container } from 'react-bootstrap'
 
-const NavBar = () => {
+export const NavBar = () => {
   return (
     <Navbar className="bg-lg" >
         <Container 
@@ -27,4 +27,3 @@ const NavBar = () => {
 }
 
 
-export default NavBar
