@@ -10,13 +10,13 @@ import {
   CardText,
 } from 'react-bootstrap'
 import RoundProfile from '../assets/profile_square_small.jpg'
-import GithubLink from '../icons/GithubLink'
-import LinkedInLink from '../icons/LinkedInLink'
-import MediumLink from '../icons/MediumLink'
-import ResumeLink from '../icons/ResumeLink'
-import TwitterLink from '../icons/TwitterLink'
+import GithubLink from '../../src/icons/GithubLink'
+import LinkedInLink from '../../src/icons/LinkedInLink'
+import MediumLink from '../../src/icons/MediumLink'
+import ResumeLink from '../../src/icons/ResumeLink'
+import TwitterLink from '../../src/icons/TwitterLink'
 import { ArticleLink } from '../components/ArticleLink'
-import mediumArticles from '../mediumArticles'
+import mediumArticles from '../../src/mediumArticles'
 import JobAppFillerLogo from '../assets/job_app_filler_logo440.png'
 
 
