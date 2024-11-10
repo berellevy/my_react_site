@@ -2,7 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
-import { Home } from '../temp/Pages/Home';
+import { Home } from './Pages/Home';
 import { Footer } from './components/Footer';
 import { NavBar } from './components/NavBar';
 
