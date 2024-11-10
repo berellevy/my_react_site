@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App Site">
         <NavBar />
-        <main className="Site-content" >
+        <main className="site-content" >
           <Home/>
         </main>
         <Footer />
