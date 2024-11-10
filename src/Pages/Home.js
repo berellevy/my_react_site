@@ -20,7 +20,7 @@ import mediumArticles from '../mediumArticles'
 import JobAppFillerLogo from '../assets/job_app_filler_logo440.png'
 
 
-const Home = () => {
+export const Home = () => {
   return (
     <>
       <div className="first-banner" style={{ background: '#4B4E6D' }}>
@@ -120,4 +120,4 @@ const Home = () => {
   )
 }
 
-export default Home
+

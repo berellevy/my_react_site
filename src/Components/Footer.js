@@ -3,7 +3,7 @@ import { Container } from 'react-bootstrap'
 import '../css/footer.css'
 
 
-const Footer = () => {
+export const Footer = () => {
   return (
     <footer 
       className="footer bg-lg p-4 d-flex align-items-center"
@@ -14,6 +14,3 @@ const Footer = () => {
     </footer>
   )
 }
-
-
-export default Footer
