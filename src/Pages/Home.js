@@ -19,6 +19,7 @@ import { ArticleLink } from '../components/ArticleLink'
 import mediumArticles from '../mediumArticles'
 import JobAppFillerLogo from '../assets/job_app_filler_logo440.png'
 
+
 const Home = () => {
   return (
     <>
