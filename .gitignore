@@ -24,3 +24,4 @@ yarn-error.log*
 
 src/medium-articles.json
 README.md
+package-lock.json
