@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App Site">
+    <div className="app site">
         <NavBar />
         <main className="site-content" >
           <Home/>
